@@ -1,0 +1,18 @@
+{
+  "nameProject": "Новый проект",
+  "codeProject": 232323,
+  "idProject": "1",
+  "creator": {
+    "name": [
+      "Алексей",
+      "Алексеев"
+    ]
+  },
+  "administrator": {
+    "name": [
+      "Иван",
+      "Иванов"
+    ]
+  },
+  "language": "RU"
+}
